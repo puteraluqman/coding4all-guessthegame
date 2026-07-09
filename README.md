@@ -20,9 +20,14 @@ A Python guessing game built for the **Coding for All – Python Coding Challeng
 python guess_the_game.py
 ```
 
+## Screenshot
+
+![Project Screenshot](screenshot/screenshot1.png)
+
 ## Author
 
 Putera Muhammad Luqmanul Hakim
+
 Sekolah Kebangsaan Seksyen 10 Kota Damansara
 
 ## Disclaimer
